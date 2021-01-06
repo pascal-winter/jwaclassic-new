@@ -1,16 +1,15 @@
 # main links
 main:
-  - title: "Accueil"
+  - title: "Home"
     url: /
-  - title: "Enchères privées"
-    url: /vso2/
-  - title: "Inscription"
-    url: /inscription/
-  - title: "A propos"
-    url: /about/
+  - title: "La Collection"
+    url: /la-collection/
+  - title: "News & Blogs"
+    url: /news-blogs/
   - title: "Contact"
     url: /contact/
-
+  - title: "About"
+    url: /about/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
