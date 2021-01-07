@@ -36,6 +36,12 @@ feature_row_collec1:
   url: "/delahaye-235-breitling/"
   btn_label: "More"
   btn_class: "btn--inverse"
+- image_path: /assets/images/thb-rochet-schneider-26-six.jpg
+  title : "Rochet Schneider 26 Six"
+  excerpt: "Rochet Schneider 26 Six - 19XX"
+  url: "/la-collection/rochet-schneider-26-six/"
+  btn_label: "More"
+  btn_class: "btn--inverse"
 
 feature_row_collec2:
 - image_path: /assets/images/thb-aston-martin-international-cadbury.jpg

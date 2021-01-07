@@ -7,7 +7,9 @@ title: "News and Blogs"
 excerpt: "Restoration journals and regular updates"
 classes: wide
 header:
-  overlay_image: /assets/images/banner-talbot-lago-t23-chapron-restoration.jpg
+  overlay_image: /assets/images/banner-presse.jpg
+  overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
+
   actions:
      - label: "Home"
        url: "/"
