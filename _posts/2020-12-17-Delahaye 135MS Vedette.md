@@ -35,5 +35,3 @@ Texte le beau travail de Mathieu Bois
 {% include gallery id="gallery_3" caption="Légende à compléter" %}
 
 {% include gallery id="gallery_2" caption="Légende à compléter" %}
-
-{% include gallery id="gallery_3" caption="Delahaye 135 MS Vedette Chapron - Traces d'apprêts." %}
