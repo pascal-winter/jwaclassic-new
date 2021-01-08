@@ -2,6 +2,7 @@
 layout: tag
 taxonomy: Chapron
 entries_layout: grid
+teaser: path-to-teaser-image.jpg
 author_profile: true
 permalink: /tags/
 title: Chapron
