@@ -6,6 +6,15 @@ excerpt: "1930 - Billeter et Cartier - Serie 29500"
 classes: wide
 header:
   overlay_image: /assets/images/banner-rochet-schneider-26-six-1.jpg
+  actions:
+     - label: "Gallery"
+       url: "/la-collection/rochet-schneider-26-six/#gallery"
+     - label: "Restoration"
+       url: "/la-collection/rochet-schneider-26-six/#restoration"
+     - label: "History"
+       url: "/la-collection/rochet-schneider-26-six/#history"
+     - label: "Features"
+       url: "/la-collection/rochet-schneider-26-six/#features"
 
 gallery:
 - url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-1.jpg
@@ -92,7 +101,7 @@ feature_row_intro:
   This N°29359 was coach built in Lyon by Billeter et Cartier as a limousine, with separation, on a lengthened chassis.
   <br>
   <br>
-  Find below detailed information : [Gallery](/la-collection/rochet-schneider-26-six/#gallery)  -  [Restoration](/la-collection/rochet-schneider-26-six/#restoration)  -  [History](/la-collection/rochet-schneider-26-six/#history)  -  [Specifications](/la-collection/rochet-schneider-26-six/#history)<br>"
+[Gallery](/la-collection/rochet-schneider-26-six/#gallery)  -  [Restoration](/la-collection/rochet-schneider-26-six/#restoration)  -  [History](/la-collection/rochet-schneider-26-six/#history)  -  [Features](/la-collection/rochet-schneider-26-six/#features)<br>"
 
 ---
 {% include feature_row id="feature_row_intro" type="left" %}
@@ -117,9 +126,10 @@ At the 1929 Paris Motor Show, the 26-Six was the most expensive (together with t
 But the industrial crisis put an end to the high hopes of the marquee and to the “26-Six” which was the last passenger car made by Rochet-Schneider.
 {% include gallery id="gallery_history" layout="half" %}
 
-# Specifications
+# Features
 TEXT TO BE COMPLETED
 
 ### More pictures and resources available in French on this blog : [*Rochet-Schneider 26 Six #29539*](https://rochetschneider26six.blogspot.com/).
+Voir comment lier aux publications de ce site.
 
 Retour à la [page d'accueil.](/)
