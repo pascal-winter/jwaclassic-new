@@ -12,7 +12,7 @@ var store = [{
         "teaser": "http://localhost:4000/assets/images/posts/gallery-rochet-schneider-26-six-7.jpg"
       },{
         "title": "Le beau travail de Mathieu Bois",
-        "excerpt":"Texte le beau travail de Mathieu Bois                                                    Légende à compléter                                                        Légende à compléter                                                        Delahaye 135 MS Vedette Chapron - Traces d’apprêts.       ","categories": ["Delahaye 135 MS Cabriolet \"Vedette\" - Chapron","Restoration"],
+        "excerpt":"Texte le beau travail de Mathieu Bois                                                    Légende à compléter                                                        Légende à compléter       ","categories": ["Delahaye 135 MS Cabriolet \"Vedette\" - Chapron","Restoration"],
         "tags": ["Chapron"],
         "url": "http://localhost:4000/delahaye%20135%20ms%20cabriolet%20%22vedette%22%20-%20chapron/restoration/Delahaye-135MS-Vedette/",
         "teaser": "http://localhost:4000/assets/images/posts/image2.jpeg"
