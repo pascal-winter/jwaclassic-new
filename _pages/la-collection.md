@@ -1,5 +1,5 @@
 ---
-layout: single # archive
+layout: splash # archive
 author_profile: true
 classes: wide
 permalink: /la-collection
@@ -13,46 +13,52 @@ header:
   actions:
      - label: "Home"
        url: "/"
-     - label: "La Collection"
-       url: "/la-collection/"
+     - label: "News & Blogs"
+       url: "/news-blogs/"
 
 
 feature_row_collec1:
 - image_path: /assets/images/thb-talbot-lago-t23-baby-chapron.jpg
   title : "Talbot-Lago T23 Baby"
-  excerpt: "Talbot-Lago T23 Baby Chapron- 19XX"
+  excerpt: " Cabriolet Chapron - 1939"
   url: "/talbot-lago-t23-baby-chapron/"
   btn_label: "More"
   btn_class: "btn--inverse"
-- image_path: /assets/images/thb-delage-d8-120-chapron-2.jpg
+- image_path: /assets/images/p-delage-d8-120-chapron/delage-d8-120-chapron-16.jpg
   title : "Delage D8-120 Chapron"
-  excerpt: "Delage D8-120 Chapron - 19XX"
+  excerpt: "Cabriolet Grand Luxe - 1937"
   url: '/delage-d8-120-chapron/'
   btn_label: "More"
   btn_class: "btn--inverse"
-- image_path: /assets/images/thb-delahaye-type-235-235m-breitling.jpg
+- image_path: /assets/images/p-delahaye-235-235m-breitling/delahaye-type-235-235m-breitling-1.jpg
   title : "Delahaye 235 Breitling"
-  excerpt: "Delahaye 235 Breitling - 19XX"
+  excerpt: "Cabriolet Chapron Type 235 - 1952"
   url: "/delahaye-235-breitling/"
+  btn_label: "More"
+  btn_class: "btn--inverse"
+- image_path: /assets/images/thb-rochet-schneider-26-six.jpg
+  title : "Rochet Schneider 26-Six"
+  excerpt: "Rochet Schneider 26-Six - 1929"
+  url: "/la-collection/rochet-schneider-26-six/"
+  btn_label: "More"
+  btn_class: "btn--inverse"
+- image_path: /assets/images/p-delahaye-135-chapron/thb-delahaye-type-135-135M-chapron.jpg
+  title : "Delahaye 135 Chapron"
+  excerpt: "1948 - Cabriolet Grand Luxe Type 135-M"
+  url: '/la-collection/delahaye-135-chapron/'
   btn_label: "More"
   btn_class: "btn--inverse"
 
 feature_row_collec2:
 - image_path: /assets/images/thb-aston-martin-international-cadbury.jpg
-  title : "Aston Martin"
-  excerpt: "Aston Martin International - 19XX"
+  title : "Aston Martin Cadbury"
+  excerpt: "International KO84 - 1931"
   url: "/aston-martin-international-cadbury/"
   btn_label: "More"
   btn_class: "btn--inverse"
-- image_path: /assets/images/thb-delahaye-type-135-135M-chapron.jpg
-  title : "Delahaye 135-M Chapron"
-  excerpt: "Delahaye 135-M Chapron - 19XX"
-  url: '/delahaye-135-135M-chapron/'
-  btn_label: "More"
-  btn_class: "btn--inverse"
 - image_path: /assets/images/thb-alfa-romeo-giulietta-sprint-speciale-1300-ss.jpg
-  title : "Alfa Romeo Giulietta Sprint Speciale"
-  excerpt: "Alfa Romeo 1300 Sprint Speciale - 1962"
+  title : "Alfa Romeo 1300-SS   "
+  excerpt: "Giuletta Sprint - 1962"
   url: "/alfa-romeo-giulietta-sprint-speciale-1300-ss/"
   btn_label: "More"
   btn_class: "btn--inverse"
@@ -65,12 +71,12 @@ feature_row_collec2:
 ---
 
 # Intro
-ALjclkdjcfldjclsjc sldjcsldj cl
+We take great joy in unraveling the past of great cars, restoring them to their prime and tour them on the beautiful roads of France countryside.
 
 
 {% include feature_row id="feature_row_collec1" %}
 
-# Continue
+# Other cars
 ALjclkdjcfldjclsjc sldjcsldj cl
 
 {% include feature_row id="feature_row_collec2" %}

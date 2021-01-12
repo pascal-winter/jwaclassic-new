@@ -16,17 +16,17 @@ header:
 
 
 feature_row_1:
- - image_path: /assets/images/thb-talbot-lago-t23-baby-chapron.jpg
-   title : "Talbot-Lago T23 Baby"
-   excerpt: "Talbot-Lago T23 Baby Chapron- 19XX"
-   url: "/talbot-lago-t23-baby-chapron/"
-   btn_label: "More"
+ - image_path: /assets/images/20170520_170024.jpg
+   title : "Welcome text"
+   excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+   url: "/la-collection/"
+   btn_label: "La Collection"
    btn_class: "btn--inverse"
 
 feature_row_2:
- - image_path: /assets/images/thb-delage-d8-120-chapron-2.jpg
-   title : "Delage D8-120 Chapron"
-   excerpt: "Delage D8-120 Chapron - 19XX"
+ - image_path: /assets/images/posts/image1.jpeg
+   title : "Extrait du dernier post"
+   excerpt: "Voir comment automatiser un extrait du dernier post des blogs"
    url: '/delage-d8-120-chapron/'
    btn_label: "More"
    btn_class: "btn--inverse"
