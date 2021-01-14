@@ -26,7 +26,7 @@ feature_row_1:
 feature_row_2:
  - image_path: /assets/images/posts/image1.jpeg
    title : "Extrait du dernier post"
-   excerpt: "Voir comment automatiser un extrait du dernier post des blogs"
+   excerpt: "Voir comment automatiser un extrait du dernier post des blogs, on pourra le faire à la main dans un 1er temps"
    url: '/delage-d8-120-chapron/'
    btn_label: "More"
    btn_class: "btn--inverse"
