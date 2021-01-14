@@ -2,7 +2,7 @@
 layout: splash # archive
 author_profile: true
 classes: wide
-permalink: /la-collection
+permalink: /la-collection/
 title: "JWA Classic"
 excerpt: "Just the cars we love"
 
