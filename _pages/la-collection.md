@@ -70,13 +70,8 @@ feature_row_collec2:
 
 ---
 
-# Intro
-We take great joy in unraveling the past of great cars, restoring them to their prime and tour them on the beautiful roads of France countryside.
-
-
+# French Classic Cars
 {% include feature_row id="feature_row_collec1" %}
 
 # Other cars
-ALjclkdjcfldjclsjc sldjcsldj cl
-
 {% include feature_row id="feature_row_collec2" %}

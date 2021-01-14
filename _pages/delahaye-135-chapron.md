@@ -17,57 +17,32 @@ header:
        url: "/la-collection/delahaye-135-chapron/#features"
 
 gallery:
-- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-1.jpg
-  image_path: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-1-thumb.jpg
-  title: Rochet Schneider 26 Six Photo 1
-  image_caption: Rochet Schneider 26-Six 1930 - Caption 1
-- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-2.jpg
-  image_path: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-2-thumb.jpg
-  title: Rochet Schneider 26 Six Photo 2
-  image_caption: Rochet Schneider 26-Six 1930 - Caption 2
-- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-4.jpg
-  image_path: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-4-thumb.jpg
-  title: Rochet Schneider 26 Six Photo 4
-  image_caption: Rochet Schneider 26-Six 1930 - Caption 4
-- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-6.jpg
-  image_path: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-6-thumb.jpg
-  title: Rochet Schneider 26 Six Photo 6
-  image_caption: Rochet Schneider 26-Six 1930 - Caption 6
-- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-7.jpg
-  image_path: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-7-thumb.jpg
-  title: Rochet Schneider 26 Six Photo 7
-  image_caption: Rochet Schneider 26-Six 1930 - Caption 7
-- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-8.jpg
-  image_path: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-8-thumb.jpg
-  title: Rochet Schneider 26 Six Photo 8
-  image_caption: Rochet Schneider 26-Six 1930 - Caption 8
-
+- url: /assets/images/p-delahaye-135-chapron/delahaye-135-chapron-000.jpg
+  image_path: /assets/images/p-delahaye-135-chapron/th-delahaye-135-chapron-000.jpg
+  title: Delahaye 135 Chapron
+  image_caption: Delahaye 135 Chapron
+- url: /assets/images/p-delahaye-135-chapron/delahaye-135-chapron-001.JPG
+  image_path: /assets/images/p-delahaye-135-chapron/th-delahaye-135-chapron-001.jpg
+  title: Delahaye 135 Chapron
+  image_caption: Delahaye 135 Chapron
+- url: /assets/images/p-delahaye-135-chapron/delahaye-135-chapron-002.JPG
+  image_path: /assets/images/p-delahaye-135-chapron/th-delahaye-135-chapron-002.jpg
+  title: Delahaye 135 Chapron
+  image_caption: Delahaye 135 Chapron
+- url: /assets/images/p-delahaye-135-chapron/delahaye-135-chapron-003.JPG
+  image_path: /assets/images/p-delahaye-135-chapron/th-delahaye-135-chapron-003.jpg
+  title: Delahaye 135 Chapron
+  image_caption: Delahaye 135 Chapron
+- url: /assets/images/p-delahaye-135-chapron/delahaye-135-chapron-004.JPG
+  image_path: /assets/images/p-delahaye-135-chapron/th-delahaye-135-chapron-004.jpg
+  title: Delahaye 135 Chapron
+  image_caption: Delahaye 135 Chapron
+- url: /assets/images/p-delahaye-135-chapron/delahaye-135-chapron-005.JPG
+  image_path: /assets/images/p-delahaye-135-chapron/th-delahaye-135-chapron-005.jpg
+  title: Delahaye 135 Chapron
+  image_caption: Delahaye 135 Chapron
 
 gallery_restoration:
-- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-1.jpg
-  image_path: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-1-thumb.jpg
-  title: Rochet Schneider 26 Six Photo 1
-  image_caption: Rochet Schneider 26-Six 1930 - Caption 1
-- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-2.jpg
-  image_path: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-2-thumb.jpg
-  title: Rochet Schneider 26 Six Photo 2
-  image_caption: Rochet Schneider 26-Six 1930 - Caption 2
-- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-4.jpg
-  image_path: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-4-thumb.jpg
-  title: Rochet Schneider 26 Six Photo 4
-  image_caption: Rochet Schneider 26-Six 1930 - Caption 4
-- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-8.jpg
-  image_path: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-8-thumb.jpg
-  title: Rochet Schneider 26 Six Photo 8
-  image_caption: Rochet Schneider 26-Six 1930 - Caption 8
-- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-7.jpg
-  image_path: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-7-thumb.jpg
-  title: Rochet Schneider 26 Six Photo 7
-  image_caption: Rochet Schneider 26-Six 1930 - Caption 7
-- url: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-7.jpg
-  image_path: /assets/images/p-rochet-scheider-26-six/gallery-rochet-schneider-26-six-7-thumb.jpg
-  title: Rochet Schneider 26 Six Photo 7
-  image_caption: Rochet Schneider 26-Six 1930 - Caption 7
 
 
 
