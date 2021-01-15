@@ -39,13 +39,13 @@ feature_row_collec1:
 - image_path: /assets/images/thb-rochet-schneider-26-six.jpg
   title : "Rochet Schneider 26-Six"
   excerpt: "Rochet Schneider 26-Six - 1929"
-  url: "/la-collection/la-collection/rochet-schneider-26-six/"
+  url: "/la-collection/rochet-schneider-26-six/"
   btn_label: "More"
   btn_class: "btn--inverse"
-- image_path: /assets/images/p-delahaye-135-chapron/collection-delahaye-135-chapron.jpg
+- image_path: /assets/images/p-delahaye-135-chapron/collection-delahaye-135-chapron.JPG
   title : "Delahaye 135 Chapron"
   excerpt: "1948 - Cabriolet Grand Luxe Type 135-M"
-  url: '/la-collection/la-collection/delahaye-135-chapron/'
+  url: '/la-collection/delahaye-135-chapron/'
   btn_label: "More"
   btn_class: "btn--inverse"
 
