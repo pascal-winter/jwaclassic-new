@@ -3,10 +3,15 @@ layout: single # archive
 author_profile: true
 permalink: /about/
 title: "About"
-excerpt: 
+excerpt:
 classes: wide
 header:
   overlay_image: /assets/images/banner-talbot-lago-t23-chapron-restoration.jpg
+  actions:
+     - label: "Home"
+       url: "/"
+     - label: "La Collection"
+       url: "/la-collection/"
 
 #<img src="/assets/images/joel-winter-djowinter.jpg" width="80" height="80">  
 

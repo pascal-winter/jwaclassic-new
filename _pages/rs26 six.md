@@ -130,6 +130,5 @@ But the industrial crisis put an end to the high hopes of the marquee and to the
 TEXT TO BE COMPLETED
 
 ### More pictures and resources available in French on this blog : [*Rochet-Schneider 26 Six #29539*](https://rochetschneider26six.blogspot.com/).
-Voir comment lier aux publications de ce site.
 
 Retour à la [page d'accueil.](/)

@@ -7,6 +7,11 @@ excerpt: " "
 classes: wide
 header:
   overlay_image: /assets/images/belmont-de-la-loire-road.jpg
+  actions:
+     - label: "Home"
+       url: "/"
+     - label: "La Collection"
+       url: "/la-collection/"
 
 feature_row:
   - image_path: /assets/images/jolie-photo.jpg
