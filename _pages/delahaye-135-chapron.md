@@ -17,28 +17,28 @@ header:
        url: "/la-collection/delahaye-135-chapron/#features"
 
 gallery:
-- url: /assets/images/p-delahaye-135-chapron/delahaye-135-chapron-000.jpg
-  image_path: /assets/images/p-delahaye-135-chapron/th-delahaye-135-chapron-000.jpg
+- url: /assets/images/p-delahaye-135-chapron/gallery-delahaye-135-chapron-000.jpg
+  image_path: /assets/images/p-delahaye-135-chapron/gallery-th-delahaye-135-chapron-000.jpg
   title: Delahaye 135 Chapron
   image_caption: Delahaye 135 Chapron
-- url: /assets/images/p-delahaye-135-chapron/delahaye-135-chapron-001.JPG
-  image_path: /assets/images/p-delahaye-135-chapron/th-delahaye-135-chapron-001.jpg
+- url: /assets/images/p-delahaye-135-chapron/gallery-delahaye-135-chapron-001.JPG
+  image_path: /assets/images/p-delahaye-135-chapron/gallery-th-delahaye-135-chapron-001.jpg
   title: Delahaye 135 Chapron
   image_caption: Delahaye 135 Chapron
-- url: /assets/images/p-delahaye-135-chapron/delahaye-135-chapron-002.JPG
-  image_path: /assets/images/p-delahaye-135-chapron/th-delahaye-135-chapron-002.jpg
+- url: /assets/images/p-delahaye-135-chapron/gallery-delahaye-135-chapron-002.JPG
+  image_path: /assets/images/p-delahaye-135-chapron/gallery-th-delahaye-135-chapron-002.jpg
   title: Delahaye 135 Chapron
   image_caption: Delahaye 135 Chapron
-- url: /assets/images/p-delahaye-135-chapron/delahaye-135-chapron-003.JPG
-  image_path: /assets/images/p-delahaye-135-chapron/th-delahaye-135-chapron-003.jpg
+- url: /assets/images/p-delahaye-135-chapron/gallery-delahaye-135-chapron-003.JPG
+  image_path: /assets/images/p-delahaye-135-chapron/gallery-th-delahaye-135-chapron-003.jpg
   title: Delahaye 135 Chapron
   image_caption: Delahaye 135 Chapron
-- url: /assets/images/p-delahaye-135-chapron/delahaye-135-chapron-004.JPG
-  image_path: /assets/images/p-delahaye-135-chapron/th-delahaye-135-chapron-004.jpg
+- url: /assets/images/p-delahaye-135-chapron/gallery-delahaye-135-chapron-004.JPG
+  image_path: /assets/images/p-delahaye-135-chapron/gallery-th-delahaye-135-chapron-004.jpg
   title: Delahaye 135 Chapron
   image_caption: Delahaye 135 Chapron
-- url: /assets/images/p-delahaye-135-chapron/delahaye-135-chapron-005.JPG
-  image_path: /assets/images/p-delahaye-135-chapron/th-delahaye-135-chapron-005.jpg
+- url: /assets/images/p-delahaye-135-chapron/gallery-delahaye-135-chapron-005.JPG
+  image_path: /assets/images/p-delahaye-135-chapron/gallery-th-delahaye-135-chapron-005.jpg
   title: Delahaye 135 Chapron
   image_caption: Delahaye 135 Chapron
 
@@ -50,7 +50,7 @@ gallery_history:
 
 
 feature_row_intro:
-- image_path: /assets/images/p-delahaye-135-chapron/thb-delahaye-type-135-135m-chapron.JPG
+- image_path: /assets/images/p-delahaye-135-chapron/collection-delahaye-135-chapron.JPG
   title: "Presentation"
   excerpt: "Delahaye was probably one of the most revered luxury brand of the late “entre deux guerre” (in between wars). Founded in 1894, the “Societe des Automobiles Delahaye” took a pivotal direction in 1932 - influenced by Madame Leon Desmarais - majority shareholder and widow of early investor Leon Desmarais. Delahaye would focus on creating high quality automotive chassis and reopen the racing department. In 1935, quickly becoming competitive and winning events, Delahaye introduced the Type 135, also known as the “Coupe des Alpes”. It became perhaps the most iconic Delahaye model, synonym of high performance with exceptional style.
   <br>
@@ -94,7 +94,7 @@ Then, to cater to the interest in higher performance, the type 135M was launched
 In 1939, a sportier version, the 135MS was released with a similar 3.6 liter tri carburetor setup delivering from 120 to 145 horsepower. Production was halted during the war and resumed in 1945 until 1952.<br>
 This Type 135MS is powered by the familiar Type 135 3.6 liters straight six engine fitted with a ‘84R’ high lift camshaft and delivers 145 horsepower.<br>
 The fuel is fed through three down draft Solex carburetors ( 40PAI) and the transmission is a 4-speed MK38 Cotal gearbox.
-
-### More pictures and resources available in French on this blog : Voir comment lier aux publications de ce site.
+<br>
+### More pictures and resources available in French on this [blog](https://delahaye135m801025.blogspot.com/)
 
 Retour à la [page d'accueil.](/)
