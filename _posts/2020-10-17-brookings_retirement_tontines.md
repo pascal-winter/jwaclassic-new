@@ -2,11 +2,13 @@
 title: "Brookings Institution Policy Brief on Retirement Tontines"
 excerpt: "Using a classical finance mechanism as an alternative source of retirement income"
 categories:
-  - In the News
-  - Publication
+  - Delahaye 135 MS Cabriolet "Vedette" - Chapron
+  - Restoration
 tags:
   - tontines
 classes: wide
+header:
+  teaser: /assets/images/posts/gallery-rochet-schneider-26-six-7.jpg
 ---
 
 The work of Richard Fullmer and our sister company, [Nuova Lontevità Research](https://www.nuovalongevita.com), is referenced in this thoughtful policy brief published by the Brookings Institution titled [Retirement Tontines: A New Way to Finance Retirement Income](https://www.brookings.edu/wp-content/uploads/2020/10/Retirement-Security-Project-Tontines-Policy-Brief-Oct-2020.pdf).

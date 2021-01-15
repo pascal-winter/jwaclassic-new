@@ -3,7 +3,7 @@ layout: single # archive
 author_profile: true
 permalink: /about/
 title: "About"
-excerpt: "There is a great satisfaction in bringing back to life automobiles that are more than just automobiles. "
+excerpt: 
 classes: wide
 header:
   overlay_image: /assets/images/banner-talbot-lago-t23-chapron-restoration.jpg
