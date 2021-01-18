@@ -10,7 +10,7 @@ header:
      - label: "Gallery"
        url: "/la-collection/rochet-schneider-26-six/#gallery"
      - label: "Restoration"
-       url: "/la-collection/rochet-schneider-26-six/#restoration"
+       url: "/la-collection/rochet-schneider-26-six/#restoration--in-2006-the-sleeping-beauty-as-we-found-it"
      - label: "History"
        url: "/la-collection/rochet-schneider-26-six/#history"
      - label: "Features"
@@ -98,6 +98,48 @@ feature_row_intro:
   <br>
 [Gallery](/la-collection/rochet-schneider-26-six/#gallery)  -  [Restoration](/la-collection/rochet-schneider-26-six/#restoration--in-2006-the-sleeping-beauty-as-we-found-it)  -  [History](/la-collection/rochet-schneider-26-six/#history)  -  [Features](/la-collection/rochet-schneider-26-six/#features)<br>"
 
+feature_row_history1:
+- image_path: /assets/images/p-rochet-scheider-26-six/history-rochet-schneider-26-six-003.jpg
+  title: "The Rochet-Schneider 26-Six : « beyond all superlatives»"
+  excerpt: "This is how Pierre-Lucien Pouzet recalls the R-S 26-Six in his book : « Rochet-Schneider un Grand Constructeur
+  d’Automobiles à Lyon », and this is not surprising :<br>
+  • Double ignition ( by magneto and coil ) which can be used separately or simultaneously<br>
+  • Brakes with internal frictions and assistance<br>
+  • Lubricating oil purifier with double oil pumps<br>
+  • The oil cooler can be disengaged during cold weather<br>
+  • Double barrel carburettor with automatic connection at high speeds<br>
+  • Centralised greasing by foot pedal<br>
+  • An aviation type instrument panel.<br>
+  <br>"
+
+feature_row_history2:
+- image_path: /assets/images/p-rochet-scheider-26-six/history-rochet-schneider-26-six-004.JPG
+  title: ""
+  excerpt: "At the 1929 Paris Motor Show, the 26-Six was the most expensive (together with the Hispano–Suiza).<br>
+  In “la Vie de l’Automobile”, the columist concluded his presentation as follows:<br>
+  <br>
+  *“As can be seen, the manufacturers of Lyon wanted their cars to be perfect in all respects, and we have to admit that they have reached their goal.”*<br>
+  <br>
+  But the industrial crisis put an end to the high hopes of the brand and to the “26-Six” which was the last passenger car made by Rochet-Schneider."
+
+feature_row_history3:
+- image_path: /assets/images/p-rochet-scheider-26-six/history-rochet-schneider-26-six-002.jpg
+  title: "About the model N°29359"
+  excerpt: "This imposing Rochet-Schneider Limousine with divider by Billetier & Cartier was part of the Serge Pozzoli collection in the early 90’s.<br>
+  <br>
+  The history of this very last automobiles manufactured by Rochet-Schneider was clear, at least we believed so.<br>
+  The oral tradition was that Serge Pozzoli acquired it from its first owner, a French lawyer based in Alger by the name of Otto Mantoux, registered at the Alger court house, as testified by the plaque apposed on the back of the Rochet.<br>"
+
+feature_row_history4:
+- image_path: /assets/images/p-rochet-scheider-26-six/history-rochet-schneider-26-six-000.jpg
+  title: "From Alger to Menton"
+  excerpt: "Still, we decided to check things out, just in case. And, surprise ! In August 1930, the first owner was actually an English doctor practicing in Menton.<br>
+  <br>
+  His name was Stanley Rendall. English obstetric specialist, he chose the south of France more by personal preference rather than purely professional. We found his name on a climatotherapy seminar.
+  <br>He moved later on to Aix-les-Bains, still in possession of the Rochet, where he practiced many years in his mansion still in existence and named “Villa Stanley Rendall”.<br>
+  <br>
+  So the question is : how and when this beautiful Limousine changed hand from Doctor Rendall in Aix-les-Bains to Mr Mantoux, lawyer in Alger?<br>"
+
 ---
 # Overview
 {% include feature_row id="feature_row_intro" type="left" %}
@@ -113,37 +155,10 @@ feature_row_intro:
 
 # History
 *[Back to top of the page](/la-collection/rochet-schneider-26-six/#overview)*<br>
-## About the Rochet-Schneider 26-Six
-![image-left](/assets/images/p-rochet-scheider-26-six/history-rochet-schneider-26-six-001.jpg){: .align-left .width-fourty}
-At the 1929 Paris Motor Show, the 26-Six was the most expensive (together with the Hispano–Suiza). In “la Vie de l’Automobile”, the columist concluded his presentation as follows:
-<blockquote> “As can be seen, the manufacturers of Lyon wanted their cars to be perfect in all respects, and we have to admit that they have reached their goal.”</blockquote>
-<br>
-**"Beyond all superlatives"** : this is how Pierre-Lucien Pouzet recalls the R-S 26-Six in his book : « Rochet-Schneider un Grand Constructeur
-d’Automobiles à Lyon », and this is not surprising :<br>
-• Double ignition ( by magneto and coil ) which can be used separately or simultaneously<br>
-• Brakes with internal frictions and assistance<br>
-• Lubricating oil purifier with double oil pumps<br>
-• The oil cooler can be disengaged during cold weather<br>
-• Double barrel carburettor with automatic connection at high speeds<br>
-• Centralised greasing by foot pedal<br>
-• An aviation type instrument panel.<br>
-<br>
-But the industrial crisis put an end to the high hopes of the brand and to the “26-Six” which was the last passenger car made by Rochet-Schneider.
-
-## About the model N°29359
-![image-left](/assets/images/p-rochet-scheider-26-six/history-rochet-schneider-26-six-002.jpg){: .align-left .width-fourty}
-This imposing Rochet-Schneider Limousine with divider by Billetier & Cartier was part of the Serge Pozzoli collection in the early 90’s. While mechanically sound, it required a total bodywork restoration initiated in 2011.<br>
-<br>
-The history of this very last automobiles manufactured by Rochet-Schneider was clear, at least we believed so.<br>
-The oral tradition was that Serge Pozzoli acquired it from its first owner, a French lawyer based in Alger by the name of Otto Mantoux, registered at the Alger court house, as testified by the plaque apposed on the back of the Rochet : Maître OTTO MANTOUX, Avocat à la Cour d’Appel d’ALGER, 6 rue JOINVILLE • ALGER<br>
-<br>
-Still, we decided to check things out, just in case. Ho surprise, the first owner was in August 1930 an English doctor practicing in Menton.<br>
-<br>
-His name was Stanley Rendall. English by birth, obstetric specialist, he chose the south of France for more personal preference than purely professional. We found his name on a climatotherapy seminar. He moved later on to Aix-les-Bains, still in possession of the Rochet, where he practiced many years in his mansion still in existence and named “Villa Stanley Rendall”.<br>
-<br>
-So the question is : how and when this beautiful Limousine changed hand from Doctor Rendall in Aix-les-Bains to Mr Mantoux, lawyer in Alger?
-<br>
-
+{% include feature_row id="feature_row_history1" type="left" %}
+{% include feature_row id="feature_row_history2" type="left" %}
+{% include feature_row id="feature_row_history3" type="left" %}
+{% include feature_row id="feature_row_history4" type="left" %}
 
 # Features
 *[Back to top of the page](/la-collection/rochet-schneider-26-six/#overview)*<br>
