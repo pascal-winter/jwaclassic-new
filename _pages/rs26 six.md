@@ -116,7 +116,7 @@ feature_row_intro:
 ## About the Rochet-Schneider 26-Six
 ![image-left](/assets/images/p-rochet-scheider-26-six/history-rochet-schneider-26-six-001.jpg){: .align-left .width-fourty}
 At the 1929 Paris Motor Show, the 26-Six was the most expensive (together with the Hispano–Suiza). In “la Vie de l’Automobile”, the columist concluded his presentation as follows:
-<blockquote> “As can be seen, the manufacturers of Lyon wanted their cars to be perfect in all respects, and we have to admit that they have attained their goal.”</blockquote>
+<blockquote> “As can be seen, the manufacturers of Lyon wanted their cars to be perfect in all respects, and we have to admit that they have reached their goal.”</blockquote>
 <br>
 **"Beyond all superlatives"** : this is how Pierre-Lucien Pouzet recalls the R-S 26-Six in his book : « Rochet-Schneider un Grand Constructeur
 d’Automobiles à Lyon », and this is not surprising :<br>
