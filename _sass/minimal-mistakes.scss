@@ -32,6 +32,18 @@
 
 /* Utility classes */
 @import "minimal-mistakes/utilities";
+.width-fourty {
+    width: 40%
+}
+.width-thirty {
+    width: 30%
+}
+.width-seventy {
+    width: 70%
+}
+.width-half {
+    width: 50%
+}
 
 /* Layout specific */
 @import "minimal-mistakes/page";

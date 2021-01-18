@@ -42,10 +42,10 @@ feature_row_collec1:
   url: "/la-collection/rochet-schneider-26-six/"
   btn_label: "More"
   btn_class: "btn--inverse"
-- image_path: /assets/images/p-delahaye-135-chapron/collection-delahaye-135-chapron.JPG
-  title : "Delahaye 135 Chapron"
+- image_path: /assets/images/p-delahaye-135M-chapron/collection-delahaye-135m-chapron.JPG
+  title : "Delahaye 135-M Chapron"
   excerpt: "1948 - Cabriolet Grand Luxe Type 135-M"
-  url: '/la-collection/delahaye-135-chapron/'
+  url: '/la-collection/delahaye-135M-chapron/'
   btn_label: "More"
   btn_class: "btn--inverse"
 

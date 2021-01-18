@@ -90,6 +90,4 @@ feature_row_intro: #montage avec image verticales si possible
 # Features
 
 
-### More pictures and resources available in French on this [blog](https://delahaye135m801025.blogspot.com/)
-
 Retour à la [page d'accueil.](/)
