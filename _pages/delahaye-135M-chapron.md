@@ -21,35 +21,35 @@ gallery:
   image_path: /assets/images/p-delahaye-135M-chapron/gallery-th-delahaye-135M-chapron-000.jpg
   title: Delahaye 135M Chapron
   image_caption: Delahaye 135M Chapron
-- url: /assets/images/p-delahaye-135M-chapron/gallery-delahaye-135M-chapron-001.JPG
+- url: /assets/images/p-delahaye-135M-chapron/gallery-delahaye-135M-chapron-001.jpg
   image_path: /assets/images/p-delahaye-135M-chapron/gallery-th-delahaye-135M-chapron-001.jpg
   title: Delahaye 135M Chapron
   image_caption: Delahaye 135M Chapron
-- url: /assets/images/p-delahaye-135M-chapron/gallery-delahaye-135M-chapron-002.JPG
+- url: /assets/images/p-delahaye-135M-chapron/gallery-delahaye-135M-chapron-002.jpg
   image_path: /assets/images/p-delahaye-135M-chapron/gallery-th-delahaye-135M-chapron-002.jpg
   title: Delahaye 135M Chapron
   image_caption: Delahaye 135M Chapron
-- url: /assets/images/p-delahaye-135M-chapron/gallery-delahaye-135M-chapron-003.JPG
+- url: /assets/images/p-delahaye-135M-chapron/gallery-delahaye-135M-chapron-003.jpg
   image_path: /assets/images/p-delahaye-135M-chapron/gallery-th-delahaye-135M-chapron-003.jpg
   title: Delahaye 135M Chapron
   image_caption: Delahaye 135M Chapron
-- url: /assets/images/p-delahaye-135M-chapron/gallery-delahaye-135M-chapron-004.JPG
+- url: /assets/images/p-delahaye-135M-chapron/gallery-delahaye-135M-chapron-004.jpg
   image_path: /assets/images/p-delahaye-135M-chapron/gallery-th-delahaye-135M-chapron-004.jpg
   title: Delahaye 135M Chapron
   image_caption: Delahaye 135M Chapron
-- url: /assets/images/p-delahaye-135M-chapron/gallery-delahaye-135M-chapron-005.JPG
+- url: /assets/images/p-delahaye-135M-chapron/gallery-delahaye-135M-chapron-005.jpg
   image_path: /assets/images/p-delahaye-135M-chapron/gallery-th-delahaye-135M-chapron-005.jpg
   title: Delahaye 135M Chapron
   image_caption: Delahaye 135M Chapron
-- url: /assets/images/p-delahaye-135M-chapron/gallery-delahaye-135M-chapron-006.JPG
+- url: /assets/images/p-delahaye-135M-chapron/gallery-delahaye-135M-chapron-006.jpg
   image_path: /assets/images/p-delahaye-135M-chapron/gallery-th-delahaye-135M-chapron-006.jpg
   title: Delahaye 135M Chapron
   image_caption: Delahaye 135M Chapron
-- url: /assets/images/p-delahaye-135M-chapron/gallery-delahaye-135M-chapron-007.JPG
+- url: /assets/images/p-delahaye-135M-chapron/gallery-delahaye-135M-chapron-007.jpg
   image_path: /assets/images/p-delahaye-135M-chapron/gallery-th-delahaye-135M-chapron-007.jpg
   title: Delahaye 135M Chapron
   image_caption: Delahaye 135M Chapron
-- url: /assets/images/p-delahaye-135M-chapron/gallery-delahaye-135M-chapron-008.JPG
+- url: /assets/images/p-delahaye-135M-chapron/gallery-delahaye-135M-chapron-008.jpg
   image_path: /assets/images/p-delahaye-135M-chapron/gallery-th-delahaye-135M-chapron-008.jpg
   title: Delahaye 135M Chapron
   image_caption: Delahaye 135M Chapron
@@ -59,29 +59,29 @@ gallery_restoration:
   image_path: /assets/images/p-delahaye-135M-chapron/restoration-th-delahaye-135M-chapron-000.jpg
   title: Delahaye 135M Chapron
   image_caption: Delahaye 135M Chapron
-- url: /assets/images/p-delahaye-135M-chapron/restoration-delahaye-135M-chapron-001.JPG
+- url: /assets/images/p-delahaye-135M-chapron/restoration-delahaye-135M-chapron-001.jpg
   image_path: /assets/images/p-delahaye-135M-chapron/restoration-th-delahaye-135M-chapron-001.jpg
   title: Delahaye 135M Chapron
   image_caption: Delahaye 135M Chapron
-- url: /assets/images/p-delahaye-135M-chapron/restoration-delahaye-135M-chapron-002.JPG
+- url: /assets/images/p-delahaye-135M-chapron/restoration-delahaye-135M-chapron-002.jpg
   image_path: /assets/images/p-delahaye-135M-chapron/restoration-th-delahaye-135M-chapron-002.jpg
   title: Delahaye 135M Chapron
   image_caption: Delahaye 135M Chapron
-- url: /assets/images/p-delahaye-135M-chapron/restoration-delahaye-135M-chapron-003.JPG
+- url: /assets/images/p-delahaye-135M-chapron/restoration-delahaye-135M-chapron-003.jpg
   image_path: /assets/images/p-delahaye-135M-chapron/restoration-th-delahaye-135M-chapron-003.jpg
   title: Delahaye 135M Chapron
   image_caption: Delahaye 135M Chapron
-- url: /assets/images/p-delahaye-135M-chapron/restoration-delahaye-135M-chapron-004.JPG
+- url: /assets/images/p-delahaye-135M-chapron/restoration-delahaye-135M-chapron-004.jpg
   image_path: /assets/images/p-delahaye-135M-chapron/restoration-th-delahaye-135M-chapron-004.jpg
   title: Delahaye 135M Chapron
   image_caption: Delahaye 135M Chapron
-- url: /assets/images/p-delahaye-135M-chapron/restoration-delahaye-135M-chapron-005.JPG
+- url: /assets/images/p-delahaye-135M-chapron/restoration-delahaye-135M-chapron-005.jpg
   image_path: /assets/images/p-delahaye-135M-chapron/restoration-th-delahaye-135M-chapron-005.jpg
   title: Delahaye 135M Chapron
   image_caption: Delahaye 135M Chapron
 
 feature_row_intro:
-- image_path: /assets/images/p-delahaye-135M-chapron/collection-delahaye-135M-chapron.JPG
+- image_path: /assets/images/p-delahaye-135M-chapron/collection-delahaye-135M-chapron.jpg
   title: "Delahaye 135M : high performance with exceptional style for the most iconic Delahaye model"
   excerpt: "Delahaye was probably one of the most revered luxury brand of the late “entre deux guerres” (in between wars). Founded in 1894, the “Societe des Automobiles Delahaye” took a pivotal direction in 1932 - influenced by Madame Leon Desmarais - majority shareholder and widow of early investor Leon Desmarais. Delahaye would focus on creating high quality automotive chassis and reopen the racing department. In 1935, quickly becoming competitive and winning events, Delahaye introduced the Type 135, also known as the “Coupe des Alpes”. It became perhaps the most iconic Delahaye model, synonym of high performance with exceptional style.
   <br>
